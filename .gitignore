@@ -1,0 +1,7 @@
+#dependencies
+/node_modules
+
+#files
+/build
+/public
+package-lock.json
